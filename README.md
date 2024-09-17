@@ -2,7 +2,7 @@
   I’m @tiagorosolen, software engineer interested in C++, C#, embbeded applications (arduino, ESP, arm, FreeRTOS).
   I'm trying to make my work available in my blog: www.theprotoblog.com and with some public repos here.
 
-🌱 I’m currently learning .NET MAUI, multiplatform apps and REST APIs.
+🌱 I’m currently improving my .NET.
 
 📫 For ideias, suggestions or any bug report, please email me on: tiago@theprotoblog.com
 
